@@ -1,0 +1,7 @@
+numpy>=2.5.4
+tensorflow>=2.21.0
+matplotlib>=3.11.2
+pandas>=3.0.6
+opencv-python>=5.0.0.93
+scikit-learn>=1.9.1
+tqdm>=4.70.1
